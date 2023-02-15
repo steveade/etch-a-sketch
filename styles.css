@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row {
+    display: flex;
+    height: 50px;
+}
+
+.cell {
+    width: 50px;
+    border: 1px solid blueviolet;
+}
